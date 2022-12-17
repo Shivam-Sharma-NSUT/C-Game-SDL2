@@ -1,0 +1,477 @@
+# depslib dependency file v1.0
+1564144913 source:c:\users\user\desktop\business\sfx\plugins\game\main.cpp
+	<SDL2/SDL.h>
+
+1564416488 source:c:\users\user\desktop\game\main.cpp
+	"Map.h"
+
+1564416103 c:\users\user\desktop\game\game.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<iostream>
+	"vector2D.h"
+	"ECS.h"
+	"PositionComponent.h"
+	"controller.h"
+
+1564399348 c:\users\user\desktop\game\map.h
+	"Game.h"
+
+1564414645 c:\users\user\desktop\game\ecs.h
+	<iostream>
+	<vector>
+	<algorithm>
+	<memory>
+
+1564392780 c:\users\user\desktop\game\component.h
+	"ECS.h"
+
+1564416488 c:\users\user\desktop\game\positioncomponent.h
+
+1564416209 c:\users\user\desktop\game\controller.h
+
+1564392969 c:\users\user\desktop\game\vector2d.h
+
+1564898533 source:c:\users\user\desktop\coding\game\main.cpp
+	"Map.h"
+
+1564918021 c:\users\user\desktop\coding\game\map.h
+	"Game.h"
+
+1564906023 c:\users\user\desktop\coding\game\game.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<iostream>
+	"vector2D.h"
+	"ECS.h"
+	"PositionComponent.h"
+	"controller.h"
+	"spritecomponent.h"
+
+1564666768 c:\users\user\desktop\coding\game\vector2d.h
+
+1564897709 c:\users\user\desktop\coding\game\ecs.h
+	<iostream>
+	<vector>
+	<algorithm>
+	<memory>
+
+1565749287 c:\users\user\desktop\coding\game\positioncomponent.h
+	"spritecomponent.h"
+
+1570346298 c:\users\user\desktop\coding\game\controller.h
+
+1564908445 c:\users\user\desktop\coding\game\spritecomponent.h
+	"Map.h"
+
+1660809070 source:c:\users\conta\onedrive\desktop\coding\coding\game\main.cpp
+	<bits/stdc++.h>
+	"SDL2/SDL.h"
+
+1564918022 c:\users\conta\onedrive\desktop\coding\coding\game\map.h
+	"Game.h"
+
+1570355374 c:\users\conta\onedrive\desktop\coding\coding\game\game.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<iostream>
+	"vector2D.h"
+	"ECS.h"
+	"PositionComponent.h"
+	"controller.h"
+	"spritecomponent.h"
+
+1564666770 c:\users\conta\onedrive\desktop\coding\coding\game\vector2d.h
+
+1564897710 c:\users\conta\onedrive\desktop\coding\coding\game\ecs.h
+	<iostream>
+	<vector>
+	<algorithm>
+	<memory>
+
+1565749288 c:\users\conta\onedrive\desktop\coding\coding\game\positioncomponent.h
+	"spritecomponent.h"
+
+1564908446 c:\users\conta\onedrive\desktop\coding\coding\game\spritecomponent.h
+	"Map.h"
+
+1570346300 c:\users\conta\onedrive\desktop\coding\coding\game\controller.h
+
+1650910406 c:\users\conta\onedrive\desktop\coding\coding\game\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hidapi.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_metal.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"SDL_locale.h"
+	"SDL_misc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\conta\onedrive\desktop\coding\coding\game\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910407 c:\users\conta\onedrive\desktop\coding\coding\game\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	"close_code.h"
+
+1650910407 c:\users\conta\onedrive\desktop\coding\coding\game\sdl2\sdl_config.h
+	"SDL_platform.h"
+	<winsdkver.h>
+
+1650910406 c:\users\conta\onedrive\desktop\coding\coding\game\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1650910407 c:\users\conta\onedrive\desktop\coding\coding\game\sdl2\begin_code.h
+
+1650910407 c:\users\conta\onedrive\desktop\coding\coding\game\sdl2\close_code.h
+
+1650910406 c:\users\conta\onedrive\desktop\coding\coding\game\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1650910406 c:\users\conta\onedrive\desktop\coding\coding\game\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1650910406 c:\users\conta\onedrive\desktop\coding\coding\game\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\conta\onedrive\desktop\coding\coding\game\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\conta\onedrive\desktop\coding\coding\game\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<endian.h>
+	<endian.h>
+	<sys/endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\conta\onedrive\desktop\coding\coding\game\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910407 c:\users\conta\onedrive\desktop\coding\coding\game\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\conta\onedrive\desktop\coding\coding\game\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\conta\onedrive\desktop\coding\coding\game\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\conta\onedrive\desktop\coding\coding\game\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<arm_neon.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<arm64intr.h>
+	<arm64_neon.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\conta\onedrive\desktop\coding\coding\game\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910407 c:\users\conta\onedrive\desktop\coding\coding\game\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\conta\onedrive\desktop\coding\coding\game\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\conta\onedrive\desktop\coding\coding\game\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910407 c:\users\conta\onedrive\desktop\coding\coding\game\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\conta\onedrive\desktop\coding\coding\game\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\conta\onedrive\desktop\coding\coding\game\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\conta\onedrive\desktop\coding\coding\game\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1650910406 c:\users\conta\onedrive\desktop\coding\coding\game\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1650910406 c:\users\conta\onedrive\desktop\coding\coding\game\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\conta\onedrive\desktop\coding\coding\game\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\conta\onedrive\desktop\coding\coding\game\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910407 c:\users\conta\onedrive\desktop\coding\coding\game\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\conta\onedrive\desktop\coding\coding\game\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1650910406 c:\users\conta\onedrive\desktop\coding\coding\game\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910407 c:\users\conta\onedrive\desktop\coding\coding\game\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\conta\onedrive\desktop\coding\coding\game\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\conta\onedrive\desktop\coding\coding\game\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\conta\onedrive\desktop\coding\coding\game\sdl2\sdl_hidapi.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\conta\onedrive\desktop\coding\coding\game\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\conta\onedrive\desktop\coding\coding\game\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\conta\onedrive\desktop\coding\coding\game\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\conta\onedrive\desktop\coding\coding\game\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\conta\onedrive\desktop\coding\coding\game\sdl2\sdl_metal.h
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\conta\onedrive\desktop\coding\coding\game\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\conta\onedrive\desktop\coding\coding\game\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910407 c:\users\conta\onedrive\desktop\coding\coding\game\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910407 c:\users\conta\onedrive\desktop\coding\coding\game\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910407 c:\users\conta\onedrive\desktop\coding\coding\game\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910407 c:\users\conta\onedrive\desktop\coding\coding\game\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\conta\onedrive\desktop\coding\coding\game\sdl2\sdl_locale.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\conta\onedrive\desktop\coding\coding\game\sdl2\sdl_misc.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
